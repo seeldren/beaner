@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/beaner/static/css/main.9d855f03.css",
-    "main.js": "/beaner/static/js/main.7fb14c7e.js",
+    "main.js": "/beaner/static/js/main.e805ffba.js",
     "static/media/puzzle.jpg": "/beaner/static/media/puzzle.f359aa28b0aade81efbc.jpg",
     "static/media/background shayad.jpg": "/beaner/static/media/background shayad.1677d9190aefdfc51f4a.jpg",
     "static/media/HennyPenny-Regular.ttf": "/beaner/static/media/HennyPenny-Regular.99be21913fda42f89d5c.ttf",
@@ -10,10 +10,10 @@
     "static/media/kiss.jpg": "/beaner/static/media/kiss.88a73c5c0f1823311f0e.jpg",
     "index.html": "/beaner/index.html",
     "main.9d855f03.css.map": "/beaner/static/css/main.9d855f03.css.map",
-    "main.7fb14c7e.js.map": "/beaner/static/js/main.7fb14c7e.js.map"
+    "main.e805ffba.js.map": "/beaner/static/js/main.e805ffba.js.map"
   },
   "entrypoints": [
     "static/css/main.9d855f03.css",
-    "static/js/main.7fb14c7e.js"
+    "static/js/main.e805ffba.js"
   ]
 }
