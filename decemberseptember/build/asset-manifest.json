@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/beaner/static/css/main.9d855f03.css",
+    "main.js": "/beaner/static/js/main.a2001ccf.js",
+    "static/media/puzzle.jpg": "/beaner/static/media/puzzle.f359aa28b0aade81efbc.jpg",
+    "static/media/background shayad.jpg": "/beaner/static/media/background shayad.1677d9190aefdfc51f4a.jpg",
+    "static/media/HennyPenny-Regular.ttf": "/beaner/static/media/HennyPenny-Regular.99be21913fda42f89d5c.ttf",
+    "static/media/BLOODY.TTF": "/beaner/static/media/BLOODY.58a1ad747f0cef0f1974.TTF",
+    "static/media/upheavtt.ttf": "/beaner/static/media/upheavtt.e3d365ba5fa6a65e9caf.ttf",
+    "static/media/kiss.jpg": "/beaner/static/media/kiss.88a73c5c0f1823311f0e.jpg",
+    "index.html": "/beaner/index.html",
+    "main.9d855f03.css.map": "/beaner/static/css/main.9d855f03.css.map",
+    "main.a2001ccf.js.map": "/beaner/static/js/main.a2001ccf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d855f03.css",
+    "static/js/main.a2001ccf.js"
+  ]
+}
