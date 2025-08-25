@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import puzzleImage from "./puzzle.jpg";
-import kissImage from "./kiss.jpg";
-import girlfriendImage from "./girlfriend.jpg";
-import runnerSprite from "./runner.png";
+import puzzleImage from process.env.PUBLIC_URL + "./puzzle.jpg";
+import kissImage from process.env.PUBLIC_URL + "./kiss.jpg";
+import girlfriendImage from process.env.PUBLIC_URL + "./girlfriend.jpg";
+import runnerSprite from process.env.PUBLIC_URL + "./runner.png";
 import "./App.css";
 
 const App = () => {
